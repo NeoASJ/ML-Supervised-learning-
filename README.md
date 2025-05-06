@@ -5,3 +5,7 @@ link for dataset LinearRegression  https://archive.ics.uci.edu/dataset/9/auto+mp
 
 link for dataset LinearRegression1 https://archive.ics.uci.edu/dataset/186/wine+quality
 
+link for dataset LogisticRegression https://www.kaggle.com/datasets/mathchi/diabetes-data-set
+
+
+
